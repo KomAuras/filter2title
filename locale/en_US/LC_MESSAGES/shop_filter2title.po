@@ -21,3 +21,7 @@ msgstr ""
 #: /wa-apps/shop/plugins/filter2title/templates/actions/settings/Settings.html:9
 msgid "Saved"
 msgstr ""
+
+#: /wa-apps/shop/plugins/filter2title/lib/config/plugin.php:5
+msgid "Selected filter values in the title of the page"
+msgstr ""

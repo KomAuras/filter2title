@@ -2,9 +2,9 @@
 
 return array(
     'name' => 'Filter to Title',
-    'description' => 'Фильтр в тайтл категории',
+    'description' => /*_wp*/('Selected filter values in the title of the page'),
     'version'=>'1.0.0',
-    'vendor' => 999,
+    'vendor' => 1010465,
     'img'=>'img/filter2title.png',
     'shop_settings' => true,
     'handlers' => array(
